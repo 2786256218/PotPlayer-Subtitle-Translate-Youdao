@@ -37,7 +37,9 @@
 
 ![image](https://github.com/user-attachments/assets/b52dfbbf-be4a-445c-ad7a-b664d4f9b3b6)
 
-复制你的应用ID和应用密钥来进行接下来的安装操作
+复制你的应用ID和应用秘钥来进行接下来的安装操作
+
+注：api为敏感信息请妥善保管，请勿泄露
 
 ## 安装
 
