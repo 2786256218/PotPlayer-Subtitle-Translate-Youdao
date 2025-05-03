@@ -68,3 +68,8 @@
 7.将翻译引擎选择为Youdao translate即可，其余的选项根据自己的需求选择
 
 8.应用配置完成安装
+
+
+注：本项目是用来翻译字幕文件(srt)的工具，如果你的视频没有带有字幕文件的话请制作srt文件
+
+Potplayer是自带该功能的，请参阅(http://www.potplayercn.com/course/potplayer-generate-subtitles-from-voice.html)
